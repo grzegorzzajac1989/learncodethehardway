@@ -1,2 +1,1 @@
-# learncodethehardway
-https://learncodethehardway.org/
+### [learncodethehardway](https://learncodethehardway.org/ "learncodethehardway")
